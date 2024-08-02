@@ -1,4 +1,4 @@
-## NOTE: This a temporary repository to host information on the community-driven ​​Open-Source Generative AI for Digital Public Goods initiative. 
+## *NOTE: This a temporary repository to host information on the community-driven ​​Open-Source Generative AI for Digital Public Goods initiative.* 
 
 # Open-Source AI for Digital Public Goods
 
